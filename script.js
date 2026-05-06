@@ -1,6 +1,11 @@
 // Each name should be in the format "Stu1, Stu2, and Stu3" with an optional URL
 var names = [
-    ["CSA_logo", "https://www.sbhscs.org"]
+    ["Comp Art", "https://sbhs-computer-science-academy.github.io/Comp-Art-24-25-projects-for-showcase/"],
+    ["Exploring Computer Science", "https://sbhs-computer-science-academy.github.io/ECS-24-25-projects-for-showcase/"],
+    ["Data Science", "https://sbhs-computer-science-academy.github.io/Data-Science-24-25-projects-for-showcase/"],
+    ["Designing software for the web", "https://sbhs-computer-science-academy.github.io/DSW-24-25-projects-for-showcase/"],
+    ["AP Computer Science", "https://sbhs-computer-science-academy.github.io/APCS-24-25-projects-for-showcase/"],
+
 ];
 
 var gridWidth = 4;
